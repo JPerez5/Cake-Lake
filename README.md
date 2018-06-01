@@ -1,2 +1,1 @@
-# Cake-Lake
-Learn to bake cakes
+Learn to make cakes and quiz yourself
