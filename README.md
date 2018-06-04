@@ -3,6 +3,7 @@ Learn to make cakes and quiz yourself
 ---------BUT!!!----------------------
 
 Before launching, go to the code for each file and look for this
+Located in the "<!-- THE NAVBAR -->"
 
   <div class="collapse navbar-collapse" id="myNavbar">
     <ul class="nav navbar-nav navbar-right">
